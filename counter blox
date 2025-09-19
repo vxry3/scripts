@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uedan228/Happy-Hub/refs/heads/main/Counter%20Blox%20v2.0"))()
